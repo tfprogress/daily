@@ -1,17 +1,27 @@
-## talentfore
-Progress throughout the complete website development during July 2019.
+## TalentFore
+Progress throughout the complete website development during July 2019.  
+[Website](http://abhijeetsingh.s3-website.ap-south-1.amazonaws.com/)  
+[Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
 
 ## Index
 - [Daily](#daily)
-    - [Assignment](#assignment)
     - [04 July 2019](#04-july-2019)
+    - [Assignment](#assignment)
 - [Website Structure](#website-structure)
 - [Software Information](#software-information)
 - [Instructions](#instructions)
-- [ToDo](#todo)
+- [To Do](#to-do)
 
 ---
 ## Daily
+
+#### 04 July 2019
+- In-person meeting
+- Create information & progress document
+- Research similar websites for header design choices
+- Research font choices
+- Create discussion document
+- Started work on meta tags for SEO
 
 #### Assignment
 - Demo of Page 5: For Employers - Assured Recruit
@@ -21,10 +31,6 @@ Progress throughout the complete website development during July 2019.
 - Add body mock content
 - Add Footer and FontAwesome icons
 - Deploy live solution to [AWS](http://abhijeetsingh.s3-website.ap-south-1.amazonaws.com/)
-
-#### 04 July 2019
-- In-person meeting
-- Create information & progress document
 
 ---
 ## Website Structure
@@ -43,7 +49,7 @@ Progress throughout the complete website development during July 2019.
 ## Software Information
 - HTML, CSS, JavaScript
 - Bootstrap
-- FontAwesome
+- FontAwesome 4.7.0
 
 ---
 ## Instructions
@@ -51,3 +57,12 @@ Run using an HTTP server. For example, using Python on Ubuntu 18.04 LTS:
 ```sh
 python3 -m http.server
 ```
+
+---
+# To Do
+- Add dynamic hiding to header
+- Add banner [Decide colour]
+- Add social buttons in banner [FontAwesome]
+- Add footer [Refer Microsoft Docs but black]
+- Add subscribe to mail form in footer [Refer assignment]
+- Add relevant links in footer [Refer Microsoft Docs]
