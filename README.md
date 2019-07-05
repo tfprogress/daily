@@ -3,8 +3,9 @@ Progress throughout the complete website development during July 2019.
 [Website](http://abhijeetsingh.s3-website.ap-south-1.amazonaws.com/)  
 [Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
 
-## Index
+# Index
 - [Daily](#daily)
+    - [05 July 2019](#05-july-2019)
     - [04 July 2019](#04-july-2019)
     - [Assignment](#assignment)
 - [Website Structure](#website-structure)
@@ -14,6 +15,16 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 05 July 2019
+- Add primary meta tags for SEO
+- Add meta information for Twitter & Facebook
+- Upgrade FontAwesome to 5.9.0, Bootstrap to 4.3.1, jQuery to 3.4.1
+- Add Popper v1
+- Decrease header height and add login buttons [Header completed]
+- Started Page 1 and Page 5
+- Enable all navigation buttons in header
+- Add Pretty URLs to improve SEO
 
 #### 04 July 2019
 - In-person meeting
@@ -34,9 +45,9 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Website Structure
-- Header [In Progress]
+- Header [Completed]
 - Footer [In Progress]
-- Page 1: For Candidates: 1 [In progress]
+- Page 1: For Candidates: Resume [In progress]
 - Page 2: For Candidates: 2 [Not specified]
 - Page 3: For Candidates: 3 [Not specified]
 - Page 4: For Candidates: 4 [Not specified]
@@ -48,8 +59,10 @@ Progress throughout the complete website development during July 2019.
 ---
 ## Software Information
 - HTML, CSS, JavaScript
-- Bootstrap
-- FontAwesome 4.7.0
+- Bootstrap 4.3.1
+- FontAwesome 5.9.0
+- Popper v1
+- jQuery 3.4.1
 
 ---
 ## Instructions
@@ -66,3 +79,5 @@ python3 -m http.server
 - Add footer [Refer Microsoft Docs but black]
 - Add subscribe to mail form in footer [Refer assignment]
 - Add relevant links in footer [Refer Microsoft Docs]
+- Optimize logo for SEO
+- Add favicons for various devices
