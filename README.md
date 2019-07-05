@@ -22,7 +22,7 @@ Progress throughout the complete website development during July 2019.
 - Upgrade FontAwesome to 5.9.0, Bootstrap to 4.3.1, jQuery to 3.4.1
 - Add Popper v1
 - Decrease header height and add login buttons [Header completed]
-- Started Page 1 and Page 5
+- Add all primary pages skeleton
 - Enable all navigation buttons in header
 - Add Pretty URLs to improve SEO
 - Add Login buttons
