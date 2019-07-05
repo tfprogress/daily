@@ -25,6 +25,7 @@ Progress throughout the complete website development during July 2019.
 - Started Page 1 and Page 5
 - Enable all navigation buttons in header
 - Add Pretty URLs to improve SEO
+- Add Login buttons
 
 #### 04 July 2019
 - In-person meeting
