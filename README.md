@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [06 July 2019](#06-july-2019)
     - [05 July 2019](#05-july-2019)
     - [04 July 2019](#04-july-2019)
     - [Assignment](#assignment)
@@ -15,6 +16,14 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 06 July 2019
+- Separate primary and secondary navigation in header
+- Add social links to footer
+- Add general links to footer [Footer completed]
+- Add separators in navbar
+- Add dynamic logo selection for different screens
+- Added media queries for navbar adjustment to mobile
 
 #### 05 July 2019
 - Add primary meta tags for SEO
@@ -47,7 +56,7 @@ Progress throughout the complete website development during July 2019.
 ---
 ## Website Structure
 - Header [Completed]
-- Footer [In Progress]
+- Footer [Completed]
 - Page 1: For Candidates: Resume [In progress]
 - Page 2: For Candidates: 2 [Not specified]
 - Page 3: For Candidates: 3 [Not specified]
