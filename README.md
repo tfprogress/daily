@@ -1,10 +1,11 @@
 ## TalentFore
 Progress throughout the complete website development during July 2019.  
-[Website](http://abhijeetsingh.s3-website.ap-south-1.amazonaws.com/)  
+[Website](https://tfprogress.netlify.com)  
 [Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
 
 # Index
 - [Daily](#daily)
+    - [07 July 2019](#07-july-2019)
     - [06 July 2019](#06-july-2019)
     - [05 July 2019](#05-july-2019)
     - [04 July 2019](#04-july-2019)
@@ -16,6 +17,16 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 07 July 2019
+- Remove navbar toggle completely
+- Adjust primary navigation to fit mobile
+- Migrate project to Hugo
+- Add copyright
+- Fix footer margin
+- Switch to Netlify deployment for faster testing
+- Add Assured Recruit body [Page 5 complete]
+- Add "Partner with Us" section in Footer
 
 #### 06 July 2019
 - Separate primary and secondary navigation in header
@@ -61,7 +72,7 @@ Progress throughout the complete website development during July 2019.
 - Page 2: For Candidates: 2 [Not specified]
 - Page 3: For Candidates: 3 [Not specified]
 - Page 4: For Candidates: 4 [Not specified]
-- Page 5: For Employers: Assured Recruit [In Progress]
+- Page 5: For Employers: Assured Recruit [Completed]
 - Page 6: For Employers: 2 [Not specified]
 - Page 7: For Employers: 3 [Not specified]
 - Page 8: For Employers: 4 [Not specified]
@@ -73,6 +84,8 @@ Progress throughout the complete website development during July 2019.
 - FontAwesome 5.9.0
 - Popper v1
 - jQuery 3.4.1
+- Netlify
+- Hugo v0.40.1
 
 ---
 ## Instructions
@@ -80,14 +93,14 @@ Run using an HTTP server. For example, using Python on Ubuntu 18.04 LTS:
 ```sh
 python3 -m http.server
 ```
+OR
+```sh
+hugo server -D
+```
 
 ---
 # To Do
-- Add dynamic hiding to header
-- Add banner [Decide colour]
-- Add social buttons in banner [FontAwesome]
-- Add footer [Refer Microsoft Docs but black]
-- Add subscribe to mail form in footer [Refer assignment]
-- Add relevant links in footer [Refer Microsoft Docs]
+- Add dynamic hiding to navbar
 - Optimize logo for SEO
 - Add favicons for various devices
+- Make secondary navigation sticky
