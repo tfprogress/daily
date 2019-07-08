@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [08 July 2019](#08-july-2019)
     - [07 July 2019](#07-july-2019)
     - [06 July 2019](#06-july-2019)
     - [05 July 2019](#05-july-2019)
@@ -17,6 +18,15 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 08 July 2019
+- Fix header and footer overflow for small screen phones
+- Make secondary nav sticky
+- Started work on Page 1: Resume
+- Assured Recruit: Resize Banner & sections
+- Assured Recruit: Add icons
+- Assured Recruit: Redesign quote section
+- Assured Recruit: Redesign price section
 
 #### 07 July 2019
 - Remove navbar toggle completely
@@ -104,3 +114,4 @@ hugo server -D
 - Optimize logo for SEO
 - Add favicons for various devices
 - Make secondary navigation sticky
+- Replace separator in navbar with border-right
