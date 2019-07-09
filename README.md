@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [09 July 2019](#09-july-2019)
     - [08 July 2019](#08-july-2019)
     - [07 July 2019](#07-july-2019)
     - [06 July 2019](#06-july-2019)
@@ -18,6 +19,14 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 09 July 2019
+- Assured Recruit: Redesign quote section
+- Footer: Fix social icons alignment for tablets
+- Assured Recruit: Fix banner alignment for tablets
+- Navbar: Fix alignment for mobile devices
+- Resume: Implement Instructions section
+- Resume: Implement Carousel section
 
 #### 08 July 2019
 - Fix header and footer overflow for small screen phones
