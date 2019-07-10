@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [10 July 2019](#10-july-2019)
     - [09 July 2019](#09-july-2019)
     - [08 July 2019](#08-july-2019)
     - [07 July 2019](#07-july-2019)
@@ -19,6 +20,15 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 10 July 2019
+- Resume: Implement Pricing section
+- Resume: Pricing: Move to new colour scheme
+- Resume: Implement Brands section
+- Resume: Implement Features section
+- Resume: Features: Add hover animations
+- Add Linearicons support
+- Header: Move to new colour scheme
 
 #### 09 July 2019
 - Assured Recruit: Redesign quote section
@@ -105,6 +115,7 @@ Progress throughout the complete website development during July 2019.
 - jQuery 3.4.1
 - Netlify
 - Hugo v0.40.1
+- Linearicons v1.0.0
 
 ---
 ## Instructions
