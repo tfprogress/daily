@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [11 July 2019](#11-july-2019)
     - [10 July 2019](#10-july-2019)
     - [09 July 2019](#09-july-2019)
     - [08 July 2019](#08-july-2019)
@@ -20,6 +21,17 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 11 July 2019
+- Resume & Recruit: Header: Add parallax effect
+- Resume: Carousel: Add control buttons
+- Resume: Carousel: New colour scheme
+- Resume: Carousel: Adapt to mobile screen
+- Migrate from GylphIcons to FontAwesome
+- Resume: Carousel: Added OwlCarousel
+- Added support for slide animations v3.7.2
+- Resume: Carousel: Autoplay Pause on hover
+- Resume: Carousel: Add lazyload to improve performance
 
 #### 10 July 2019
 - Resume: Implement Pricing section
@@ -113,9 +125,13 @@ Progress throughout the complete website development during July 2019.
 - FontAwesome 5.9.0
 - Popper v1
 - jQuery 3.4.1
+- GitHub Pages
+- Amazon Web Services: S3 [Removed]
 - Netlify
 - Hugo v0.40.1
 - Linearicons v1.0.0
+- Owl Carousel v2.3.4
+- Animate.css v3.7.2
 
 ---
 ## Instructions
@@ -131,7 +147,8 @@ hugo server -D
 ---
 # To Do
 - Add dynamic hiding to navbar
-- Optimize logo for SEO
+- Optimize images for SEO
 - Add favicons for various devices
-- Make secondary navigation sticky
 - Replace separator in navbar with border-right
+- Add Corporate Enquiry
+- Add Book Demo pop-up to Recruit
