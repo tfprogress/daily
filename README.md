@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [12 July 2019](#12-july-2019)
     - [11 July 2019](#11-july-2019)
     - [10 July 2019](#10-july-2019)
     - [09 July 2019](#09-july-2019)
@@ -21,6 +22,13 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 12 July 2019
+- In-person meeting
+- Resume: Fix brand icons
+- Resume: Add currency symbols
+- Recruit: Add page Enquire Now
+- Recruit: Enable Enquire Now buttons
 
 #### 11 July 2019
 - Resume & Recruit: Header: Add parallax effect
