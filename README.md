@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [13 July 2019](#13-july-2019)
     - [12 July 2019](#12-july-2019)
     - [11 July 2019](#11-july-2019)
     - [10 July 2019](#10-july-2019)
@@ -22,6 +23,15 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 13 July 2019
+- Enquire: Implement header
+- Enquire: Implement form
+- Enquire: Form title gradient bg
+- Resume: Replace banner image with gradient
+- Fix logo broken link
+- Enquire: Decrease bg overlay opacity
+- Enquire: Form field focusing
 
 #### 12 July 2019
 - In-person meeting
