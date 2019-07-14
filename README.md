@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [14 July 2019](#14-july-2019)
     - [13 July 2019](#13-july-2019)
     - [12 July 2019](#12-july-2019)
     - [11 July 2019](#11-july-2019)
@@ -23,6 +24,17 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 14 July 2019
+- Resume: Banner: Switch to image bg & decrease overlay opacity
+- Recruit: Enquire buttons open in same tab
+- Enquire: Remove banner & adjust form area
+- Enquire: Adapt to mobile & tablet screens
+- Enquire: Improve dropdown styling [Enquire complete]
+- Footer: Enable Partner button
+- Partner: Add banner
+- Partner: Add applicant information section
+- Partner: Add colorful icons & gradient bg
 
 #### 13 July 2019
 - Enquire: Implement header
@@ -125,20 +137,21 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Website Structure
-- Header [Completed]
-- Footer [Completed]
-- Page 1: For Candidates: Resume [In progress]
-- Page 2: For Candidates: 2 [Not specified]
-- Page 3: For Candidates: 3 [Not specified]
-- Page 4: For Candidates: 4 [Not specified]
+- Header                                 [Completed]
+- Footer                                 [Completed]
+- Page 1: For Candidates: Resume         [Completed]
+- Page 2: For Candidates: Aptitude Test  [Not specified]
+- Page 3: For Candidates: Courses        [Not specified]
+- Page 4: For Candidates: Jobs           [Not specified]
 - Page 5: For Employers: Assured Recruit [Completed]
-- Page 6: For Employers: 2 [Not specified]
-- Page 7: For Employers: 3 [Not specified]
-- Page 8: For Employers: 4 [Not specified]
+- Page 6: For Employers: Job Description [Not specified]
+- Page 7: For Employers: Assessment      [Not specified]
+- Page 8: For Employers: Enquire Now     [Completed]
+- Page 9: Partner With Us                [In Progress]
 
 ---
 ## Software Information
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Go, Markdown
 - Bootstrap 4.3.1
 - FontAwesome 5.9.0
 - Popper v1
