@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [15 July 2019](#15-july-2019)
     - [14 July 2019](#14-july-2019)
     - [13 July 2019](#13-july-2019)
     - [12 July 2019](#12-july-2019)
@@ -24,6 +25,19 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 15 July 2019
+- Partner: Add steps
+- Partner: Add color scheme
+- Partner: Change to relevant icons [Partner complete]
+- Partner: Add dummy text description to steps
+- Footer: Align Connect & Subscribe, make font style same
+- Footer: Align Partner button and Email field
+- Footer: Single line Copyright & round buttons
+- Footer: Decrease vertical padding & add color scheme
+- Resume: Same image for all instructions, fix padding on mobile
+- Resume: Change color of step number images
+- Resume: Round buttons with color scheme
 
 #### 14 July 2019
 - Resume: Banner: Switch to image bg & decrease overlay opacity
@@ -147,7 +161,7 @@ Progress throughout the complete website development during July 2019.
 - Page 6: For Employers: Job Description [Not specified]
 - Page 7: For Employers: Assessment      [Not specified]
 - Page 8: For Employers: Enquire Now     [Completed]
-- Page 9: Partner With Us                [In Progress]
+- Page 9: Partner With Us                [Completed]
 
 ---
 ## Software Information
@@ -183,3 +197,5 @@ hugo server -D
 - Replace separator in navbar with border-right
 - Add Corporate Enquiry
 - Add Book Demo pop-up to Recruit
+- Add Hugo processing to images
+- Add Chrome meta theme
