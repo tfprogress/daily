@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [16 July 2019](#16-july-2019)
     - [15 July 2019](#15-july-2019)
     - [14 July 2019](#14-july-2019)
     - [13 July 2019](#13-july-2019)
@@ -25,6 +26,18 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 16 July 2019
+- Footer: Enable About Us link
+- About: Add content & images
+- About: Align elements
+- About: Adapt to mobile screen
+- About: Add banner with gradient bg
+- About: Modify to suit color scheme [About complete]
+- Footer: Enable Contact Us link
+- Contact: Add content, form and map
+- Contact: Add Banner content
+- Contact: Add required indicators
 
 #### 15 July 2019
 - Partner: Add steps
@@ -162,6 +175,8 @@ Progress throughout the complete website development during July 2019.
 - Page 7: For Employers: Assessment      [Not specified]
 - Page 8: For Employers: Enquire Now     [Completed]
 - Page 9: Partner With Us                [Completed]
+- Page 10: About Us                      [Completed]
+- Page 11: Contact Us                    [In Progress]
 
 ---
 ## Software Information
