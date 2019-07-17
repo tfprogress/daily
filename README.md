@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [17 July 2019](#17-july-2019)
     - [16 July 2019](#16-july-2019)
     - [15 July 2019](#15-july-2019)
     - [14 July 2019](#14-july-2019)
@@ -21,11 +22,23 @@ Progress throughout the complete website development during July 2019.
     - [Assignment](#assignment)
 - [Website Structure](#website-structure)
 - [Software Information](#software-information)
+- [Fonts](#fonts)
 - [Instructions](#instructions)
 - [To Do](#to-do)
 
 ---
 ## Daily
+
+#### 17 July 2019
+- Contact: Add banner bg
+- Contact: Add colorful icons
+- Contact: Fix alignments & margins
+- Contact: Add color scheme [Contact completed]
+- Contact: Fit form to screen
+- Enquire: Fit form to screen
+- Footer: Decrease subscribe form height
+- Add Navbar font & add active page highlighting
+- Add Banner title & body fonts
 
 #### 16 July 2019
 - Footer: Enable About Us link
@@ -176,7 +189,7 @@ Progress throughout the complete website development during July 2019.
 - Page 8: For Employers: Enquire Now     [Completed]
 - Page 9: Partner With Us                [Completed]
 - Page 10: About Us                      [Completed]
-- Page 11: Contact Us                    [In Progress]
+- Page 11: Contact Us                    [Completed]
 
 ---
 ## Software Information
@@ -192,6 +205,12 @@ Progress throughout the complete website development during July 2019.
 - Linearicons v1.0.0
 - Owl Carousel v2.3.4
 - Animate.css v3.7.2
+
+---
+## Fonts
+- Navbar: Lucida Grande (medium-content-sans-serif-font)
+- Banner Title: Noe Display Regular (medium-content-title-font)
+- Body: Lora (medium-content-serif-font)
 
 ---
 ## Instructions
