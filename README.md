@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [18 July 2019](#18-july-2019)
     - [17 July 2019](#17-july-2019)
     - [16 July 2019](#16-july-2019)
     - [15 July 2019](#15-july-2019)
@@ -22,12 +23,29 @@ Progress throughout the complete website development during July 2019.
     - [Assignment](#assignment)
 - [Website Structure](#website-structure)
 - [Software Information](#software-information)
-- [Fonts](#fonts)
+- [Typography](#typography)
 - [Instructions](#instructions)
 - [To Do](#to-do)
 
 ---
 ## Daily
+
+#### 18 July 2019
+- Add button font & Medium like button styling
+- Navbar letter spacing increase
+- Login and carousel button font change to suit Medium
+- Body font set to Lora
+- Recruit: Pricing: Set colour scheme
+- Recruit: Features: Change to orange icons
+- Resume, Recruit, Partner: Banner fitting for large screens
+- Resume: Benefits: Reduce card height
+- Navbar: Sign in button same as others
+- Resume: Slider: Remove pause on hover
+- Resume: Activate all Get Started buttons
+- Template: Add content, buttons and styling
+- Template: Add banner content & bg
+- Template: Buttons: Add color scheme & scale dimensions
+- Template: Buttons: add hover visibility [Template complete]
 
 #### 17 July 2019
 - Contact: Add banner bg
@@ -180,16 +198,17 @@ Progress throughout the complete website development during July 2019.
 - Header                                 [Completed]
 - Footer                                 [Completed]
 - Page 1: For Candidates: Resume         [Completed]
-- Page 2: For Candidates: Aptitude Test  [Not specified]
+- Page 2: For Candidates: Aptitude Test  [Not started]
 - Page 3: For Candidates: Courses        [Not specified]
 - Page 4: For Candidates: Jobs           [Not specified]
 - Page 5: For Employers: Assured Recruit [Completed]
-- Page 6: For Employers: Job Description [Not specified]
-- Page 7: For Employers: Assessment      [Not specified]
+- Page 6: For Employers: Job Description [Not started]
+- Page 7: For Employers: Assessment      [Not started]
 - Page 8: For Employers: Enquire Now     [Completed]
 - Page 9: Partner With Us                [Completed]
 - Page 10: About Us                      [Completed]
 - Page 11: Contact Us                    [Completed]
+- Page 12: Resumes > New                 [Completed]
 
 ---
 ## Software Information
@@ -207,10 +226,22 @@ Progress throughout the complete website development during July 2019.
 - Animate.css v3.7.2
 
 ---
-## Fonts
-- Navbar: Lucida Grande (medium-content-sans-serif-font)
-- Banner Title: Noe Display Regular (medium-content-title-font)
-- Body: Lora (medium-content-serif-font)
+## Typography
+
+- Fonts
+    - Font 1: Lucida Grande (medium-content-sans-serif-font)
+    - Font 2: Noe Display Regular (medium-content-title-font)
+    - Font 3: Lora (medium-content-serif-font)
+    - Font 4: Segoe UI
+
+- Elements
+    - Navbar: Font 1
+    - Banner Content: Font 1
+    - Buttons: Font 1
+    - Headings: Font 1
+    - Banner Title: Font 2
+    - Body: Font 3
+    - Login Button: Font 4
 
 ---
 ## Instructions
