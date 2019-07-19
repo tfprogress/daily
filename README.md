@@ -5,6 +5,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [19 July 2019](#19-july-2019)
     - [18 July 2019](#18-july-2019)
     - [17 July 2019](#17-july-2019)
     - [16 July 2019](#16-july-2019)
@@ -29,6 +30,25 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 19 July 2019
+- Aptitude: Add banner content & bg
+- Aptitude: Add body content & images
+- Aptitude: Add quote banner
+- Aptitude: Add pricing section
+- Aptitude: Adapt to mobile screen
+- Aptitude: Add color scheme [Aptitude complete]
+- Assessment: Add Banner content & bg
+- Assessment: Add body content & styling
+- Header: Create employer nav2 partial
+- Assessment: Upgrade to latest FontAwesome icons
+- Assessment: Add Test cards [Assessment complete]
+- Resume: Add button shadow
+- Template: Add carousel
+- Template: Adapt control buttons to mobile screen
+- Header: Add candidate nav2 partial
+- JD: Add body content
+- JD: Add banner content & bg
 
 #### 18 July 2019
 - Add button font & Medium like button styling
@@ -198,12 +218,12 @@ Progress throughout the complete website development during July 2019.
 - Header                                 [Completed]
 - Footer                                 [Completed]
 - Page 1: For Candidates: Resume         [Completed]
-- Page 2: For Candidates: Aptitude Test  [Not started]
+- Page 2: For Candidates: Aptitude Test  [Completed]
 - Page 3: For Candidates: Courses        [Not specified]
 - Page 4: For Candidates: Jobs           [Not specified]
 - Page 5: For Employers: Assured Recruit [Completed]
-- Page 6: For Employers: Job Description [Not started]
-- Page 7: For Employers: Assessment      [Not started]
+- Page 6: For Employers: Job Description [In Progress]
+- Page 7: For Employers: Assessment      [Completed]
 - Page 8: For Employers: Enquire Now     [Completed]
 - Page 9: Partner With Us                [Completed]
 - Page 10: About Us                      [Completed]
