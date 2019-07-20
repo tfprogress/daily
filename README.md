@@ -1,10 +1,13 @@
 ## TalentFore
-Progress throughout the complete website development during July 2019.  
-[Website](https://tfprogress.netlify.com)  
-[Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
+Progress throughout the complete website development during July 2019.
+- [Website](https://tfprogress.netlify.com)
+- [Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
+- [Gradient Backgrounds](https://gradienthunt.com/)
+- Icons: [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Linearicons](https://linearicons.com/free)
 
 # Index
 - [Daily](#daily)
+    - [20 July 2019](#20-july-2019)
     - [19 July 2019](#19-july-2019)
     - [18 July 2019](#18-july-2019)
     - [17 July 2019](#17-july-2019)
@@ -30,6 +33,17 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 20 July 2019
+- In-person meeting
+- Resume: Fix: Trailing index.html conflict with active link
+- JD: Add body styling
+- Footer: Align Partner button & Email field (lg screen)
+- Assessment: Increase body font-size
+- Contact: Fix logo link
+- Redefine media breakpoints to be mobile-first
+- Header: Adapt logo to lg and xs screens
+- Header: Adapt navigation to xs screen
 
 #### 19 July 2019
 - Aptitude: Add banner content & bg
