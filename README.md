@@ -3,10 +3,11 @@ Progress throughout the complete website development during July 2019.
 - [Website](https://tfprogress.netlify.com)
 - [Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
 - [Gradient Backgrounds](https://gradienthunt.com/)
-- Icons: [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Linearicons](https://linearicons.com/free)
+- Icons: [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Linearicons](https://linearicons.com/free), [Fontello](http://fontello.com/)
 
 # Index
 - [Daily](#daily)
+    - [21 July 2019](#21-july-2019)
     - [20 July 2019](#20-july-2019)
     - [19 July 2019](#19-july-2019)
     - [18 July 2019](#18-july-2019)
@@ -33,6 +34,26 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 21 July 2019
+- Buttons: Add same style throughout site
+- Aptitude: Remove "Take Test" buttons
+- Buttons: font-size same as Hubspot
+- Assessment: Increase Tests content font-size
+- JD: Redesign features same as Resume
+- JD: Add color scheme
+- JD: Reverse icon & hover colors [JD Complete]
+- Aptitude: Redesign Tests same as Resume
+- Recruit: Remove feature icon background, color 2 red
+- Assessment: Redesign Tests same as Zety
+- Assessment: Add color scheme to icons
+- Body: Decrease line height same as Zety
+- Template: Increase slide image size & set breakpoints
+- Template: Make "Use" button permanent
+- Template: Disable zoom pop-up on click
+- Template: Add all 16 resumes to slider
+- Template: Adapt slider to mobile
+- Template: Fix controls for mobile
 
 #### 20 July 2019
 - In-person meeting
@@ -236,7 +257,7 @@ Progress throughout the complete website development during July 2019.
 - Page 3: For Candidates: Courses        [Not specified]
 - Page 4: For Candidates: Jobs           [Not specified]
 - Page 5: For Employers: Assured Recruit [Completed]
-- Page 6: For Employers: Job Description [In Progress]
+- Page 6: For Employers: Job Description [Completed]
 - Page 7: For Employers: Assessment      [Completed]
 - Page 8: For Employers: Enquire Now     [Completed]
 - Page 9: Partner With Us                [Completed]
@@ -294,7 +315,5 @@ hugo server -D
 - Optimize images for SEO
 - Add favicons for various devices
 - Replace separator in navbar with border-right
-- Add Corporate Enquiry
-- Add Book Demo pop-up to Recruit
 - Add Hugo processing to images
 - Add Chrome meta theme
