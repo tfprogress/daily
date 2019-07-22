@@ -7,6 +7,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [22 July 2019](#22-july-2019)
     - [21 July 2019](#21-july-2019)
     - [20 July 2019](#20-july-2019)
     - [19 July 2019](#19-july-2019)
@@ -34,6 +35,18 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 22 July 2019
+- Enable Sign In button
+- Login: Add header-footer
+- Login: Add body content
+- Login: Add login form
+- Login: Separate content into boxes
+- Login: Add login box styling
+- Login: Add register box form
+- Login: Add register box styling
+- Login: Adapt forms to mobile
+- Login: Migrate glyph to FA icons [Login complete]
 
 #### 21 July 2019
 - Buttons: Add same style throughout site
@@ -254,16 +267,17 @@ Progress throughout the complete website development during July 2019.
 - Footer                                 [Completed]
 - Page 1: For Candidates: Resume         [Completed]
 - Page 2: For Candidates: Aptitude Test  [Completed]
-- Page 3: For Candidates: Courses        [Not specified]
-- Page 4: For Candidates: Jobs           [Not specified]
-- Page 5: For Employers: Assured Recruit [Completed]
-- Page 6: For Employers: Job Description [Completed]
-- Page 7: For Employers: Assessment      [Completed]
-- Page 8: For Employers: Enquire Now     [Completed]
-- Page 9: Partner With Us                [Completed]
-- Page 10: About Us                      [Completed]
-- Page 11: Contact Us                    [Completed]
-- Page 12: Resumes > New                 [Completed]
+- Page 3: For Candidates: Courses        [Not started]
+- Page 4: For Candidates: Jobs           [Not started]
+- Page 5: For Candidates: Templates      [Completed]
+- Page 6: For Employers: Assured Recruit [Completed]
+- Page 7: For Employers: Job Description [Completed]
+- Page 8: For Employers: Assessment      [Completed]
+- Page 9: For Employers: Enquire Now     [Completed]
+- Page 10: Partner With Us               [Completed]
+- Page 11: About Us                      [Completed]
+- Page 12: Contact Us                    [Completed]
+- Page 13: Login                         [Completed]
 
 ---
 ## Software Information
