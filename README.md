@@ -7,6 +7,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [24 July 2019](#24-july-2019)
     - [23 July 2019](#23-july-2019)
     - [22 July 2019](#22-july-2019)
     - [21 July 2019](#21-july-2019)
@@ -36,6 +37,21 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 24 July 2019
+- Footer: Activate Careers link
+- Careers: Migrate content
+- Footer: Activate Blogs link
+- Blogs: Migrate content
+- Footer: Activate T&C link
+- T&C: Migrate content
+- Footer: Activate Privacy Policy link
+- Privacy: Migrate content
+- Footer: Activate Refund Policy link
+- Refund: Migrate content
+- Footer: Activate Community Guidelines link
+- Guidelines: Migrate content
+- Recruit, JD, Assessment: Banner color
 
 #### 23 July 2019
 - Header: Fix nav2 underline padding bug
@@ -277,27 +293,33 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Website Structure
-- Header                                 [Completed]
-- Footer                                 [Completed]
-- Page 1: For Candidates: Resume         [Completed]
-- Page 2: For Candidates: Aptitude Test  [Completed]
-- Page 3: For Candidates: Courses        [In Progress]
-- Page 4: For Candidates: Jobs           [In Progress]
-- Page 5: For Candidates: Templates      [Completed]
-- Page 6: For Employers: Assured Recruit [Completed]
-- Page 7: For Employers: Job Description [Completed]
-- Page 8: For Employers: Assessment      [Completed]
-- Page 9: For Employers: Enquire Now     [Completed]
-- Page 10: Partner With Us               [Completed]
-- Page 11: About Us                      [Completed]
-- Page 12: Contact Us                    [Completed]
-- Page 13: Login                         [Completed]
-- Page 14: Company Reviews               [In Progress]
-- Page 15: Career Q&A                    [In Progress]
-- Page 16: FAQ                           [In Progress]
-- Page 17: Media: Press Coverage         [In Progress]
-- Page 18: Media: Photos                 [In Progress]
-- Page 19: Media: Press Kit              [In Progress]
+- Header                              [Completed]
+- Footer                              [Completed]
+- Page 01: Candidates: Resume         [Completed]
+- Page 02: Candidates: Aptitude Test  [Completed]
+- Page 03: Candidates: Courses        [In Progress]
+- Page 04: Candidates: Jobs           [In Progress]
+- Page 05: Candidates: Templates      [Completed]
+- Page 06: Employers: Assured Recruit [Completed]
+- Page 07: Employers: Job Description [Completed]
+- Page 08: Employers: Assessment      [Completed]
+- Page 09: Employers: Enquire Now     [Completed]
+- Page 10: Partner With Us            [Completed]
+- Page 11: About Us                   [Completed]
+- Page 12: Contact Us                 [Completed]
+- Page 13: Login                      [Completed]
+- Page 14: Company Reviews            [In Progress]
+- Page 15: Career Q&A                 [In Progress]
+- Page 16: FAQ                        [In Progress]
+- Page 17: Media: Press Coverage      [In Progress]
+- Page 18: Media: Photos              [Not started]
+- Page 19: Media: Press Kit           [Not started]
+- Page 20: Careers                    [In Progress]
+- Page 21: Blogs                      [In Progress]
+- Page 22: Terms and Conditions       [In Progress]
+- Page 23: Privacy Policy             [In Progress]
+- Page 24: Refund Policy              [In Progress]
+- Page 25: Community Guidelines       [In Progress]
 
 ---
 ## Software Information
