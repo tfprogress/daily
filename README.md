@@ -7,6 +7,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [25 July 2019](#25-july-2019)
     - [24 July 2019](#24-july-2019)
     - [23 July 2019](#23-july-2019)
     - [22 July 2019](#22-july-2019)
@@ -37,6 +38,22 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 25 July 2019
+- Enquire: Form title color
+- Change banner color & decrease overlay
+    - Resume, Aptitude, Courses, Jobs
+    - Reviews, About, Community, FAQ
+    - Media, Careers, T&C, Privacy
+    - Refund, Guidelines, Contact, Partner
+- Contact: Banner font-weight regular
+- Modify Employer nav for new order
+- Modify Candidate nav for new order
+- Recruit: Change icon & hover colors
+- Resume: Remove images from steps
+- Resume: Replace image numbers with html text
+- Resume: Adjust steps to full width
+- Resume: Increase Price button size
 
 #### 24 July 2019
 - Footer: Activate Careers link
