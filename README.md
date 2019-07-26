@@ -7,6 +7,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [26 July 2019](#26-july-2019)
     - [25 July 2019](#25-july-2019)
     - [24 July 2019](#24-july-2019)
     - [23 July 2019](#23-july-2019)
@@ -38,6 +39,24 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 26 July 2019
+- Recruit: Increase size of 4 Enquire buttons
+- Partner: Add candidate-nav
+- Resume: Steps: Complete redesign
+- Resume: Steps: Adjust circle and heading size
+- Resume Steps: Add separators after headings
+- Enquire: Change text and align center
+- Enquire: Align form center
+- Enquire: Remove text bottom padding
+- Resume: Banner text modified
+- Jobs: Modify banner content
+- Recruit: Modify quote banner text
+- Recruit: Add Practices section content
+- Recruit: Resize Practices into 4 columns
+- Community: Add banner text
+- Courses: Add pre-banner bar
+- Courses: Add banner content
 
 #### 25 July 2019
 - Enquire: Form title color
