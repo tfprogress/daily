@@ -7,6 +7,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [27 July 2019](#27-july-2019)
     - [26 July 2019](#26-july-2019)
     - [25 July 2019](#25-july-2019)
     - [24 July 2019](#24-july-2019)
@@ -39,6 +40,23 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 27 July 2019
+- Courses: Style all buttons 
+- Courses: Adjust course cards padding [Courses complete]
+- Refund: Add banner [Refund complete]
+- Privacy: Add banner [Privacy complete]
+- T&C: Add banner [T&C complete]
+- Guidelines: Add banner [Guidelines complete]
+- Careers: Add banner [Careers complete]
+- JD: Redesign feature alignment & remove borders
+- Templates: Bug fix: Add branch bundle to activate link
+- Resume: Redesign feature alignment & remove borders
+- Aptitude: Redesign feature alignment & remove borders
+- Jobs: Add banner & search
+- Jobs: Design search form
+- Jobs: Modify all buttons
+- Jobs: Design job cards & adjust alignment [Jobs complete]
 
 #### 26 July 2019
 - Recruit: Increase size of 4 Enquire buttons
@@ -325,7 +343,7 @@ Progress throughout the complete website development during July 2019.
 - Make header sticky
 - Add body mock content
 - Add Footer and FontAwesome icons
-- Deploy live solution to [AWS](http://abhijeetsingh.s3-website.ap-south-1.amazonaws.com/)
+- Deploy live solution to AWS
 
 ---
 ## Website Structure
@@ -333,8 +351,8 @@ Progress throughout the complete website development during July 2019.
 - Footer                              [Completed]
 - Page 01: Candidates: Resume         [Completed]
 - Page 02: Candidates: Aptitude Test  [Completed]
-- Page 03: Candidates: Courses        [In Progress]
-- Page 04: Candidates: Jobs           [In Progress]
+- Page 03: Candidates: Courses        [Completed]
+- Page 04: Candidates: Jobs           [Completed]
 - Page 05: Candidates: Templates      [Completed]
 - Page 06: Employers: Assured Recruit [Completed]
 - Page 07: Employers: Job Description [Completed]
@@ -345,17 +363,15 @@ Progress throughout the complete website development during July 2019.
 - Page 12: Contact Us                 [Completed]
 - Page 13: Login                      [Completed]
 - Page 14: Company Reviews            [In Progress]
-- Page 15: Career Q&A                 [In Progress]
+- Page 15: Career Q&A                 [Completed]
 - Page 16: FAQ                        [In Progress]
-- Page 17: Media: Press Coverage      [In Progress]
-- Page 18: Media: Photos              [Not started]
-- Page 19: Media: Press Kit           [Not started]
-- Page 20: Careers                    [In Progress]
-- Page 21: Blogs                      [In Progress]
-- Page 22: Terms and Conditions       [In Progress]
-- Page 23: Privacy Policy             [In Progress]
-- Page 24: Refund Policy              [In Progress]
-- Page 25: Community Guidelines       [In Progress]
+- Page 17: Careers                    [Completed]
+- Page 18: Blogs                      [In Progress]
+- Page 19: Terms and Conditions       [Completed]
+- Page 20: Privacy Policy             [Completed]
+- Page 21: Refund Policy              [Completed]
+- Page 22: Community Guidelines       [Completed]
+- Page 23: Media: Press Coverage      [In Progress]
 
 ---
 ## Software Information
@@ -398,7 +414,7 @@ python3 -m http.server
 ```
 OR
 ```sh
-hugo server -D
+hugo server -D --disableFastRender
 ```
 
 ---
