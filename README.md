@@ -7,6 +7,9 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [30 July 2019](#30-july-2019)
+    - [29 July 2019](#29-july-2019)
+    - [28 July 2019](#28-july-2019)
     - [27 July 2019](#27-july-2019)
     - [26 July 2019](#26-july-2019)
     - [25 July 2019](#25-july-2019)
@@ -40,6 +43,38 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 30 July 2019
+- Reviews: Design all buttons [Reviews complete]
+- Recruit: Change button text case same as Resume
+- Recruit: Left align offerings
+- Enquire: Separate left pane content
+- Recruit: Change stats, boundary & bg colors
+- Recruit: Add Practices container
+- Align banner font-sizes & type
+- Header: Enlarge Sign-in button for large screens
+- Header: remove text-uppercase
+- Recruit: Align Practices section for phones
+- Partner: Activate Register link
+- Register: Add left pane content
+- Courses: Remove blue band
+
+#### 29 July 2019
+- In-person meeting
+- Community: Merge two banners into one
+- Header: Enlarge sign-in button font
+- Footer: Reduce footer links font-size to ziprecruiter
+- Reviews: Add banner content & search
+- Reviews: Design cards
+
+#### 28 July 2019
+- Community: Adjust banner alignment
+- Community: Design buttons & text colors
+- Community: Design categories
+- Community: Add alternate question bg [Community complete]
+- Header: Enlarge font-size on large screens
+- Reviews: Migrate to FA icons
+- Reviews: Trim old content
 
 #### 27 July 2019
 - Courses: Style all buttons 
@@ -362,7 +397,7 @@ Progress throughout the complete website development during July 2019.
 - Page 11: About Us                   [Completed]
 - Page 12: Contact Us                 [Completed]
 - Page 13: Login                      [Completed]
-- Page 14: Company Reviews            [In Progress]
+- Page 14: Company Reviews            [Completed]
 - Page 15: Career Q&A                 [Completed]
 - Page 16: FAQ                        [In Progress]
 - Page 17: Careers                    [Completed]
@@ -372,6 +407,7 @@ Progress throughout the complete website development during July 2019.
 - Page 21: Refund Policy              [Completed]
 - Page 22: Community Guidelines       [Completed]
 - Page 23: Media: Press Coverage      [In Progress]
+- Page 24: Register                   [In Progress]
 
 ---
 ## Software Information
