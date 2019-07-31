@@ -7,12 +7,14 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [31 July 2019](#31-july-2019)
     - [30 July 2019](#30-july-2019)
     - [29 July 2019](#29-july-2019)
     - [28 July 2019](#28-july-2019)
     - [27 July 2019](#27-july-2019)
     - [26 July 2019](#26-july-2019)
     - [25 July 2019](#25-july-2019)
+    - *Week 4*
     - [24 July 2019](#24-july-2019)
     - [23 July 2019](#23-july-2019)
     - [22 July 2019](#22-july-2019)
@@ -20,6 +22,7 @@ Progress throughout the complete website development during July 2019.
     - [20 July 2019](#20-july-2019)
     - [19 July 2019](#19-july-2019)
     - [18 July 2019](#18-july-2019)
+    - *Week 3*
     - [17 July 2019](#17-july-2019)
     - [16 July 2019](#16-july-2019)
     - [15 July 2019](#15-july-2019)
@@ -27,6 +30,7 @@ Progress throughout the complete website development during July 2019.
     - [13 July 2019](#13-july-2019)
     - [12 July 2019](#12-july-2019)
     - [11 July 2019](#11-july-2019)
+    - *Week 2*
     - [10 July 2019](#10-july-2019)
     - [09 July 2019](#09-july-2019)
     - [08 July 2019](#08-july-2019)
@@ -34,6 +38,7 @@ Progress throughout the complete website development during July 2019.
     - [06 July 2019](#06-july-2019)
     - [05 July 2019](#05-july-2019)
     - [04 July 2019](#04-july-2019)
+    - *Week 1*
     - [Assignment](#assignment)
 - [Website Structure](#website-structure)
 - [Software Information](#software-information)
@@ -43,6 +48,27 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 31 July 2019
+- Optimise site size: Remove all extra images
+- JD, Assessment: Banner buttons uniformity
+- Recruit: Optimise box & Subscribe fonts
+- Register: Add all form fields [Register complete]
+- Aptitude: Activate trial button
+- Subscribe: Add content & bg
+- Subscribe: Replace images with icons
+- Subscribe: Upgrade old FA price icons [Subscribe complete]
+- Jobs: Merge banners into one
+- Partner: Change bg and icons
+- FAQ: Redesign & Add banner 
+- FAQ: Add category cards [FAQ complete]
+- Press: Add banner and inline list
+- Press: Center align cards
+- Press: Style list and buttons [Press complete]
+- Subscribe: Redesign price same as Aptitude
+- Footer: Add Sales link
+- Sales: Add banner & description
+- Sales: Add features and text boxes [Website complete]
 
 #### 30 July 2019
 - Reviews: Design all buttons [Reviews complete]
@@ -382,32 +408,34 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Website Structure
-- Header                              [Completed]
-- Footer                              [Completed]
-- Page 01: Candidates: Resume         [Completed]
-- Page 02: Candidates: Aptitude Test  [Completed]
-- Page 03: Candidates: Courses        [Completed]
-- Page 04: Candidates: Jobs           [Completed]
-- Page 05: Candidates: Templates      [Completed]
-- Page 06: Employers: Assured Recruit [Completed]
-- Page 07: Employers: Job Description [Completed]
-- Page 08: Employers: Assessment      [Completed]
-- Page 09: Employers: Enquire Now     [Completed]
-- Page 10: Partner With Us            [Completed]
-- Page 11: About Us                   [Completed]
-- Page 12: Contact Us                 [Completed]
-- Page 13: Login                      [Completed]
-- Page 14: Company Reviews            [Completed]
-- Page 15: Career Q&A                 [Completed]
-- Page 16: FAQ                        [In Progress]
-- Page 17: Careers                    [Completed]
+- Header                              [Complete]
+- Footer                              [Complete]
+- Page 01: Candidates: Resume         [Complete]
+- Page 02: Candidates: Aptitude Test  [Complete]
+- Page 03: Candidates: Courses        [Complete]
+- Page 04: Candidates: Jobs           [Complete]
+- Page 05: Candidates: Templates      [Complete]
+- Page 06: Employers: Assured Recruit [Complete]
+- Page 07: Employers: Job Description [Complete]
+- Page 08: Employers: Assessment      [Complete]
+- Page 09: Employers: Enquire Now     [Complete]
+- Page 10: Partner With Us            [Complete]
+- Page 11: About Us                   [Complete]
+- Page 12: Contact Us                 [Complete]
+- Page 13: Login                      [Complete]
+- Page 14: Company Reviews            [Complete]
+- Page 15: Career Q&A                 [Complete]
+- Page 16: FAQ                        [Complete]
+- Page 17: Careers                    [Complete]
 - Page 18: Blogs                      [In Progress]
-- Page 19: Terms and Conditions       [Completed]
-- Page 20: Privacy Policy             [Completed]
-- Page 21: Refund Policy              [Completed]
-- Page 22: Community Guidelines       [Completed]
-- Page 23: Media: Press Coverage      [In Progress]
-- Page 24: Register                   [In Progress]
+- Page 19: Terms and Conditions       [Complete]
+- Page 20: Privacy Policy             [Complete]
+- Page 21: Refund Policy              [Complete]
+- Page 22: Community Guidelines       [Complete]
+- Page 23: Media: Press Coverage      [Complete]
+- Page 24: Register                   [Complete]
+- Page 25: Subscribe                  [Complete]
+- Page 26: Sales Training             [Complete]
 
 ---
 ## Software Information
@@ -455,8 +483,6 @@ hugo server -D --disableFastRender
 
 ---
 # To Do
-- Add dynamic hiding to navbar
-- Optimize images for SEO
 - Add favicons for various devices
 - Replace separator in navbar with border-right
 - Add Hugo processing to images
