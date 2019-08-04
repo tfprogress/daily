@@ -49,7 +49,6 @@ Progress throughout the complete website development during July 2019.
 - [Software Information](#software-information)
 - [Typography](#typography)
 - [Instructions](#instructions)
-- [To Do](#to-do)
 
 ---
 ## Daily
@@ -57,6 +56,20 @@ Progress throughout the complete website development during July 2019.
 #### 04 Aug 2019
 - Enquire: Increase font-size for description
 - Templates: Change banner bg
+- Partner: Add new partner icons
+- Partner: Fix broken link in second button
+- Register: Increase font-size
+- Register: Increase tick boxes spacing
+- Reviews: Reduce search bar length
+- Reviews: Add second search bar
+- Sales: Change banner bg
+- Sales: Add new icons
+- Sales: Align body font and spacing
+- About: Align body font size
+- About: Add new icons
+- About: Vertically align end quote
+- Subscribe: Add new icons
+- Community: Reduce banner height
 
 #### 03 Aug 2019
 - Aptitude: Replace description image with icon
@@ -467,7 +480,7 @@ Progress throughout the complete website development during July 2019.
 - Page 15: Career Q&A                 [Complete]
 - Page 16: FAQ                        [Complete]
 - Page 17: Careers                    [Complete]
-- Page 18: Blogs                      [In Progress]
+- Page 18: Blogs                      [Complete]
 - Page 19: Terms and Conditions       [Complete]
 - Page 20: Privacy Policy             [Complete]
 - Page 21: Refund Policy              [Complete]
@@ -520,10 +533,3 @@ OR
 ```sh
 hugo server -D --disableFastRender
 ```
-
----
-# To Do
-- Add favicons for various devices
-- Replace separator in navbar with border-right
-- Add Hugo processing to images
-- Add Chrome meta theme
