@@ -7,6 +7,11 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [04 Aug 2019](#04-aug-2019)
+    - [03 Aug 2019](#03-aug-2019)
+    - [02 Aug 2019](#02-aug-2019)
+    - [01 Aug 2019](#01-aug-2019)
+    - *Enhancements*
     - [31 July 2019](#31-july-2019)
     - [30 July 2019](#30-july-2019)
     - [29 July 2019](#29-july-2019)
@@ -48,6 +53,41 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+#### 04 Aug 2019
+- Enquire: Increase font-size for description
+- Templates: Change banner bg
+
+#### 03 Aug 2019
+- Aptitude: Replace description image with icon
+- Aptitude: Replace package images with icons
+- Aptitude: Fix quote banner padding
+- Aptitude: Tests: Add new icons
+- Aptitude: Fix pricing form center alignment
+- Aptitude: Add bullets to price form
+
+#### 02 Aug 2019
+- Resume: Adjust steps button padding
+- Resume: Benefits: Change font-size
+- Resume: features: Add new icons
+- Resume: Price: Move Note to below price
+- Resume: Companies: Reduce heading size
+
+#### 01 Aug 2019
+- Recruit: Practices: Add all icons
+- Recruit: Practices: Middle align icon text
+- Recruit: Price: Change ticks color
+- Recruit: Offer: Justify text
+- Recruit: Practices: Fix fitting on phone
+- Recruit: Offer: Make headings bold
+- JD: body banner: Increase padding
+- JD: features: decrease padding
+- JD: features: change icons color
+- JD: features: change icons
+- Assessment: Change banner text bg color
+- Assessment: Bold headings
+- Assessment: Replace description image with icon
+- Assessment: Features: Add new icons
 
 #### 31 July 2019
 - Optimise site size: Remove all extra images
