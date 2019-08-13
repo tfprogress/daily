@@ -1,12 +1,10 @@
 ## TalentFore
 Progress throughout the complete website development during July 2019.
 - [Website](https://tfprogress.netlify.com)
-- [Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
-- [Gradient Backgrounds](https://gradienthunt.com/)
-- Icons: [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Linearicons](https://linearicons.com/free), [Fontello](http://fontello.com/)
 
 # Index
 - [Daily](#daily)
+    - [13 Aug 2019](#13-aug-2019)
     - [04 Aug 2019](#04-aug-2019)
     - [03 Aug 2019](#03-aug-2019)
     - [02 Aug 2019](#02-aug-2019)
@@ -49,9 +47,15 @@ Progress throughout the complete website development during July 2019.
 - [Software Information](#software-information)
 - [Typography](#typography)
 - [Instructions](#instructions)
+- [References](#references)
 
 ---
 ## Daily
+
+#### 13 Aug 2019
+- Create Signup page
+- Separate login and signup forms
+- Link signup and login pages
 
 #### 04 Aug 2019
 - Enquire: Increase font-size for description
@@ -489,6 +493,7 @@ Progress throughout the complete website development during July 2019.
 - Page 24: Register                   [Complete]
 - Page 25: Subscribe                  [Complete]
 - Page 26: Sales Training             [Complete]
+- Page 27: Sign up                    [Complete]
 
 ---
 ## Software Information
@@ -533,3 +538,9 @@ OR
 ```sh
 hugo server -D --disableFastRender
 ```
+
+---
+## References
+- [Discussion](https://docs.google.com/document/d/1MRWTN9fsBh6yaQaDfQu2bvrQYCsoiD1xKsCO6Ge0zlI/edit?usp=sharing)
+- [Gradient Backgrounds](https://gradienthunt.com/)
+- Icons: [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free), [Linearicons](https://linearicons.com/free), [Fontello](http://fontello.com/)
