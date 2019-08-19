@@ -4,6 +4,7 @@ Progress throughout the complete website development during July 2019.
 
 # Index
 - [Daily](#daily)
+    - [19 Aug 2019](#19-aug-2019)
     - [13 Aug 2019](#13-aug-2019)
     - [04 Aug 2019](#04-aug-2019)
     - [03 Aug 2019](#03-aug-2019)
@@ -51,6 +52,11 @@ Progress throughout the complete website development during July 2019.
 
 ---
 ## Daily
+
+### 19 Aug 2019
+- Add candidates/popup page
+- Add popup content and animated progress bar
+- Enable popup as a modal
 
 #### 13 Aug 2019
 - Create Signup page
